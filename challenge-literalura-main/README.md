@@ -14,12 +14,6 @@
   - PostgreSQL para la base de datos.
   - Spring Boot como framework de desarrollo.
 
-- Instalación y Configuración
-  - Clonar el repositorio:
-
-```bash
-git clone https://github.com/ChayChaio/challenge-literalura.git
-```
 
   - Configurar la base de datos PostgreSQL:
     - Crear una base de datos local llamada literalura_db.
